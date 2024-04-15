@@ -1,1 +1,1 @@
-# 10-coders-restaurant-template
+# 10K-coders-restaurant-template
